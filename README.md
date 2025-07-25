@@ -1,1 +1,2 @@
-# webjong_week4_album
+# webjong_week1_추억 앨범
+[왕초보] 코딩이 처음이어도 쉽게 배우는 웹개발 A to Z - 1주차 추억앨범
